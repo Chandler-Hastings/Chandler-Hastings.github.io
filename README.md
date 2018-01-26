@@ -5,10 +5,7 @@ You can use the [editor on GitHub](https://github.com/Chandler-Hastings/Chandler
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
  
 ### Test screenshot
-
-
-
-
+![l.1 pic 1(/images/ screen shot.png
 
 ### Jekyll Themes
 
